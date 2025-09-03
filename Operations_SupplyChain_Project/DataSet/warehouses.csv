@@ -1,0 +1,21 @@
+WarehouseID,WarehouseName,Location,Capacity,OperatingCost
+1,Warehouse New York,"New York, NY",90614,214924
+2,Warehouse Los Angeles,"Los Angeles, CA",84566,214584
+3,Warehouse Chicago,"Chicago, IL",90282,290326
+4,Warehouse Houston,"Houston, TX",50161,175827
+5,Warehouse Atlanta,"Atlanta, GA",30959,227296
+6,Warehouse London,"London, UK",113706,185583
+7,Warehouse Berlin,"Berlin, Germany",89067,226486
+8,Warehouse Paris,"Paris, France",121789,256796
+9,Warehouse Amsterdam,"Amsterdam, Netherlands",126337,271158
+10,Warehouse Shanghai,"Shanghai, China",48748,259311
+11,Warehouse Tokyo,"Tokyo, Japan",31436,136654
+12,Warehouse Seoul,"Seoul, South Korea",67409,75751
+13,Warehouse Singapore,Singapore,46644,297978
+14,Warehouse Mumbai,"Mumbai, India",22248,170000
+15,Warehouse Dubai,"Dubai, UAE",93187,199236
+16,Warehouse Sao Paulo,"Sao Paulo, Brazil",145516,110020
+17,Warehouse Mexico City,"Mexico City, Mexico",140704,103876
+18,Warehouse Toronto,"Toronto, Canada",27808,166579
+19,Warehouse Sydney,"Sydney, Australia",67298,297495
+20,Warehouse Milan,"Milan, Italy",131323,279117

@@ -1,0 +1,76 @@
+SupplierID,SupplierName,Country,LeadTime_Days,QualityRating,OnTimeDeliveryRate
+1,"Rodriguez, Figueroa and Sanchez",Italy,12,3.1,0.78
+2,Doyle Ltd,India,13,4.5,0.89
+3,"Mcclain, Miller and Henderson",Japan,10,4.2,0.71
+4,Davis and Sons,Germany,18,3.5,0.87
+5,"Guzman, Hoffman and Baldwin",Japan,17,4.4,0.9
+6,"Gardner, Robinson and Lawrence",UK,19,3.9,0.78
+7,Blake and Sons,USA,15,4.4,0.8
+8,"Henderson, Ramirez and Lewis",China,18,4.9,0.79
+9,Garcia-James,Germany,29,3.2,0.94
+10,Abbott-Munoz,Brazil,21,4.6,0.9
+11,Blair PLC,Japan,12,4.9,0.81
+12,Dudley Group,Japan,23,4.7,0.87
+13,Arnold Ltd,Canada,41,3.4,0.72
+14,"Mcclure, Ward and Lee",Italy,19,4.5,0.98
+15,Williams and Sons,India,11,3.8,0.83
+16,Galloway-Wyatt,Canada,15,3.7,0.76
+17,James Group,Mexico,9,4.2,0.75
+18,"Flowers, Martin and Kelly",South Korea,20,3.3,0.81
+19,"Adams, Zuniga and Wong",Italy,40,3.4,0.79
+20,"Reid, Ferguson and Sanchez",USA,19,4.6,0.93
+21,Gray-Mayo,UK,22,3.1,0.96
+22,"Watts, Robinson and Nguyen",Brazil,25,3.4,0.84
+23,Perez Inc,Italy,34,3.3,0.74
+24,Morales-Jones,South Korea,40,4.1,0.91
+25,"Walter, Edwards and Rios",UK,42,3.8,0.76
+26,Wilkerson-Day,China,37,4,0.91
+27,Baker and Sons,Germany,14,4.3,0.92
+28,"Hoffman, Baker and Richards",UK,43,3.1,0.81
+29,"Ross, Robinson and Bright",France,38,3.5,0.85
+30,"Snyder, Campos and Callahan",USA,12,4.4,0.85
+31,Burton Ltd,Mexico,26,3.2,0.82
+32,Carlson-Cruz,France,5,4.9,0.95
+33,"Ferrell, Rice and Maddox",Mexico,37,4.5,0.84
+34,Frazier Inc,Germany,45,3.6,0.88
+35,"Dyer, Potter and Mack",Brazil,17,3.3,0.91
+36,Rodriguez-Graham,Japan,38,4.8,0.87
+37,Smith-Bowen,France,6,3.2,0.8
+38,"Baker, Mason and White",Mexico,20,3.1,0.95
+39,Harrell LLC,Germany,10,4.5,0.93
+40,"Romero, Gonzalez and Brooks",Japan,13,3.3,0.83
+41,Ryan PLC,Japan,15,3.5,0.94
+42,George Group,UK,18,4.9,0.91
+43,Rodriguez LLC,South Korea,17,4.4,0.81
+44,Allen-Allen,Italy,28,3.9,0.84
+45,"Arroyo, Miller and Tucker",Germany,20,3.4,0.79
+46,Spence PLC,Brazil,40,3.5,0.76
+47,Anderson Group,Germany,45,3.1,0.72
+48,"Martin, Rose and Obrien",USA,26,3.1,0.77
+49,Hickman Ltd,Italy,36,3.4,0.74
+50,"Harris, Collins and Carney",Brazil,41,3.9,0.92
+51,"Brooks, Lam and Hayes",UK,17,3.2,0.88
+52,Walker LLC,Canada,32,3.8,0.94
+53,Chapman and Sons,USA,11,3.1,0.9
+54,"Robinson, Jones and Welch",Germany,20,3.4,0.85
+55,Jones Inc,China,32,3.4,0.83
+56,Jones-Young,Germany,33,4.6,0.94
+57,"Washington, Ryan and Cummings",Germany,8,4.3,0.85
+58,"Johnston, Sanchez and Kennedy",USA,10,4.9,0.94
+59,Lee-Davis,China,31,4,0.76
+60,Gomez-Jenkins,UK,8,3.3,0.7
+61,"Brown, Valdez and Lucas",UK,21,4.9,0.92
+62,Powell LLC,Mexico,32,4.4,0.9
+63,Wright and Sons,Japan,36,3.3,0.78
+64,"West, Henderson and Ramirez",USA,42,4.5,0.72
+65,Baxter Inc,Canada,8,3.1,0.83
+66,Morton-Chase,Japan,15,3.1,0.84
+67,Williams PLC,China,9,4.2,0.89
+68,Novak and Sons,India,30,3.2,0.95
+69,Russell Group,India,42,4.2,0.87
+70,Hancock Inc,UK,42,4.1,0.79
+71,Gray Group,Mexico,18,4.3,0.79
+72,House-Glover,Mexico,30,3.3,0.88
+73,Henderson-Bernard,France,25,4.9,0.96
+74,"Stanley, Tucker and Lee",USA,34,4.2,0.86
+75,Novak PLC,Germany,9,4.1,0.84

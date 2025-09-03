@@ -1,0 +1,401 @@
+ProductID,ProductName,Category,SubCategory,SupplierID,UnitCost,StandardPrice,Weight,Dimensions
+1,Leather Simply 350,Textiles,Leather,48,441.03,724.16,21.97,79x100x24
+2,Sensors Occur 406,Electronics,Sensors,14,409.47,993.67,6.8,24x23x40
+3,Leather Ask 315,Textiles,Leather,44,144.47,223.11,31.75,43x74x36
+4,Tablets Small 533,Pharmaceuticals,Tablets,36,50.69,68.58,16.74,26x91x21
+5,Dyes Former 822,Textiles,Dyes,55,223.71,441.4,5.68,98x29x39
+6,Tablets Art 251,Electronics,Tablets,56,293.34,426.2,15.48,15x55x18
+7,Organic Apply 898,Food & Beverage,Organic,72,55.88,131.93,20.38,89x29x20
+8,Synthetic Materials Pattern 125,Textiles,Synthetic Materials,23,441.3,963.75,16.68,62x95x20
+9,Capsules Me 210,Pharmaceuticals,Capsules,49,394.75,926.32,42.94,38x35x34
+10,Components Morning 992,Machinery,Components,30,411.17,644.51,33.04,61x52x22
+11,Electronics Wide 621,Automotive,Electronics,52,178.82,378.28,42.2,52x13x12
+12,Capsules Tonight 371,Pharmaceuticals,Capsules,5,292.39,418.14,21.78,50x65x43
+13,Tires Nice 294,Automotive,Tires,33,450.25,609.31,21.86,76x78x48
+14,Snacks Coach 780,Food & Beverage,Snacks,43,218.49,447.42,33.2,25x48x37
+15,Supplements Art 512,Pharmaceuticals,Supplements,38,207.15,407.11,9.67,95x58x48
+16,Yarn Movie 515,Textiles,Yarn,71,286.71,659.57,15.26,36x65x42
+17,Safety Equipment Be 791,Machinery,Safety Equipment,28,223.68,427.99,39.71,31x94x10
+18,Vaccines Today 734,Pharmaceuticals,Vaccines,43,333.61,471.08,47.6,40x96x24
+19,Beverages Cultural 147,Food & Beverage,Beverages,32,77.94,193.35,30.6,19x68x31
+20,Organic Authority 606,Food & Beverage,Organic,52,349.7,557,32.84,10x23x32
+21,Beverages Physical 812,Food & Beverage,Beverages,67,403.03,748.61,27.91,25x68x13
+22,Communication Author 672,Aerospace,Communication,41,267.91,653.71,44.58,88x74x32
+23,Engines Republican 586,Aerospace,Engines,58,373.11,601.09,12.44,91x45x38
+24,Communication Training 550,Aerospace,Communication,10,123.43,266.15,11.8,52x50x39
+25,Brake Systems Easy 492,Automotive,Brake Systems,20,79.66,171.09,3.31,62x52x39
+26,Materials International 952,Aerospace,Materials,54,35.82,63.31,38.51,99x12x41
+27,Polymers Call 460,Chemical,Polymers,39,7.92,17.46,42.69,63x78x39
+28,Dairy Year 546,Food & Beverage,Dairy,63,113.61,151.65,16.87,96x61x15
+29,Engines Voice 646,Aerospace,Engines,4,490.46,1171.37,29.64,94x13x10
+30,Catalysts Over 286,Chemical,Catalysts,7,434.09,699.83,16.43,68x51x26
+31,Solvents Employee 951,Chemical,Solvents,54,377.24,604.61,4.19,12x79x8
+32,Tools Particular 899,Machinery,Tools,6,326.82,720.66,47.49,35x12x44
+33,Synthetic Materials Phone 785,Textiles,Synthetic Materials,15,67.48,133.39,10.98,99x42x28
+34,Yarn Among 865,Textiles,Yarn,15,305.59,682.49,8.27,49x23x42
+35,Tablets President 484,Electronics,Tablets,51,290.02,704.68,10,85x98x45
+36,Processed Foods Beat 408,Food & Beverage,Processed Foods,16,350.11,789.66,28.34,15x54x39
+37,Coatings Kind 618,Chemical,Coatings,44,188.43,247.82,21.06,72x23x32
+38,Pumps Really 570,Machinery,Pumps,20,446.33,813.47,36.72,93x44x44
+39,Materials Past 848,Aerospace,Materials,35,220.61,372.12,12.35,21x45x33
+40,Dairy Other 784,Food & Beverage,Dairy,49,287.08,489.09,24.77,51x33x36
+41,Snacks Necessary 448,Food & Beverage,Snacks,36,399.93,942.39,35.09,45x81x5
+42,Processed Foods Four 516,Food & Beverage,Processed Foods,63,124.47,244.73,12.09,70x92x50
+43,Materials Worry 195,Aerospace,Materials,38,397.5,622.45,34.62,49x94x42
+44,Safety Equipment Every 452,Machinery,Safety Equipment,55,278.97,696.3,27.56,55x99x34
+45,Injections Democratic 223,Pharmaceuticals,Injections,25,129.44,217.29,37.17,98x33x17
+46,Organic Relationship 841,Food & Beverage,Organic,68,244.68,493.31,49.03,34x47x19
+47,Tools Sense 825,Machinery,Tools,69,154.62,224.49,2.37,16x80x23
+48,Dyes Former 602,Textiles,Dyes,14,434.89,1020.8,28.75,70x71x33
+49,Tools Edge 358,Machinery,Tools,62,482.92,693.91,3.36,72x19x41
+50,Laptops Evidence 676,Electronics,Laptops,39,78.85,110.56,12.48,81x63x43
+51,Frozen Individual 553,Food & Beverage,Frozen,39,193.29,450.79,49.5,49x82x44
+52,Components Catch 201,Electronics,Components,27,480.25,984.81,13.31,20x30x20
+53,Yarn Remain 102,Textiles,Yarn,53,42.16,77.6,29.73,47x14x19
+54,Supplements Quite 980,Pharmaceuticals,Supplements,59,144.95,200.82,11.75,43x90x42
+55,Dairy First 330,Food & Beverage,Dairy,20,61.81,147.73,41.35,19x17x15
+56,Vaccines Lot 682,Pharmaceuticals,Vaccines,37,375.73,686.45,23.49,48x99x30
+57,Vaccines Four 548,Pharmaceuticals,Vaccines,11,272.29,549.38,44.48,51x87x21
+58,Smartphones Woman 790,Electronics,Smartphones,74,118.32,237.18,1.14,96x44x41
+59,Laptops Society 767,Electronics,Laptops,57,237.9,570.79,9.16,84x65x45
+60,Avionics Would 518,Aerospace,Avionics,43,237.66,400.52,5.32,30x52x31
+61,Structures Baby 510,Aerospace,Structures,71,332.98,447.54,4.49,42x51x12
+62,Additives Act 101,Chemical,Additives,70,413.34,766.49,2.8,76x56x44
+63,Communication Low 152,Aerospace,Communication,27,223.81,362.68,6.64,46x66x49
+64,Avionics Pretty 745,Aerospace,Avionics,31,19.29,41.51,15.61,11x80x31
+65,Brake Systems Order 216,Automotive,Brake Systems,60,496.17,1208.9,32.42,29x73x50
+66,Vaccines Black 525,Pharmaceuticals,Vaccines,62,354.18,877.05,12.26,80x28x29
+67,Frozen Back 239,Food & Beverage,Frozen,9,256.58,418.61,39.52,63x53x37
+68,Tablets Note 405,Pharmaceuticals,Tablets,75,145.01,362.33,24.53,29x67x39
+69,Structures Different 881,Aerospace,Structures,70,169.56,297.18,46.65,34x99x20
+70,Catalysts Move 520,Chemical,Catalysts,6,428.73,721.04,23.7,58x59x47
+71,Accessories Evidence 229,Textiles,Accessories,65,482.59,1186.41,16.67,22x66x11
+72,Avionics Cause 519,Aerospace,Avionics,20,362.61,503.95,39.1,43x53x44
+73,Coatings Worker 436,Chemical,Coatings,69,44.76,78.6,15.9,72x79x7
+74,Brake Systems Happy 394,Automotive,Brake Systems,30,317.42,697.09,21.76,22x91x50
+75,Tires Upon 406,Automotive,Tires,4,87.35,118.38,39.83,47x55x28
+76,Catalysts Authority 521,Chemical,Catalysts,73,125.88,266.63,9.08,32x20x44
+77,Additives Until 609,Chemical,Additives,75,343.15,505.03,23.11,42x68x21
+78,Accessories Election 793,Electronics,Accessories,70,451.1,671.95,22.14,54x85x24
+79,Coatings Hope 965,Chemical,Coatings,39,128.8,198.23,19.3,71x23x20
+80,Additives Feel 402,Chemical,Additives,38,182.68,242.29,41.52,60x45x5
+81,Components Coach 952,Electronics,Components,37,373.86,834.04,11.58,55x38x45
+82,Frozen Left 873,Food & Beverage,Frozen,18,129.06,265.08,45.18,92x15x24
+83,Avionics These 849,Aerospace,Avionics,17,291.89,411.03,14.83,63x32x17
+84,Yarn Of 474,Textiles,Yarn,68,438.85,834.76,13.7,31x42x35
+85,Supplements Score 923,Pharmaceuticals,Supplements,15,435.85,811.55,3.86,38x96x48
+86,Additives Five 909,Chemical,Additives,51,186.06,244.99,26.87,68x57x48
+87,Vaccines Population 753,Pharmaceuticals,Vaccines,48,193.61,276.87,11.77,13x89x40
+88,Motors Surface 164,Machinery,Motors,60,114.58,273.99,15.18,62x24x13
+89,Smartphones Ready 604,Electronics,Smartphones,15,155.66,220.51,44.37,27x59x34
+90,Pumps Newspaper 813,Machinery,Pumps,70,474.94,856.29,37.14,29x63x46
+91,Tires Across 386,Automotive,Tires,5,309.75,659.25,10.94,66x40x28
+92,Suspension Region 760,Automotive,Suspension,46,186.83,256.45,13.87,25x68x10
+93,Organic Technology 121,Food & Beverage,Organic,7,321.55,721.61,12.25,26x82x18
+94,Transmission Once 321,Automotive,Transmission,30,107.54,182.2,7.46,86x10x22
+95,Synthetic Materials Firm 917,Textiles,Synthetic Materials,23,272.41,390.07,43.34,26x11x27
+96,Frozen Work 278,Food & Beverage,Frozen,34,165.27,225.24,37.11,77x24x9
+97,Materials Record 625,Aerospace,Materials,14,390.12,718.76,11.16,88x15x47
+98,Medical Devices Body 131,Pharmaceuticals,Medical Devices,8,323.45,808.08,42.38,64x97x11
+99,Communication Wrong 175,Aerospace,Communication,11,455.3,767.88,7.5,26x45x44
+100,Safety Equipment Unit 643,Machinery,Safety Equipment,38,497.34,917.32,30.31,22x99x12
+101,Dairy Center 333,Food & Beverage,Dairy,53,228.52,390.02,22.73,63x22x25
+102,Solvents Everything 483,Chemical,Solvents,20,334.23,709.97,23.77,21x20x10
+103,Raw Materials Business 481,Chemical,Raw Materials,17,373.57,735.05,29.36,81x81x26
+104,Tires Voice 781,Automotive,Tires,55,180.03,421.58,36.08,46x86x24
+105,Industrial Equipment Both 317,Machinery,Industrial Equipment,20,291.07,607.78,11.29,23x54x40
+106,Industrial Equipment Situation 687,Machinery,Industrial Equipment,29,382.49,867.74,42.27,89x88x48
+107,Components On 949,Electronics,Components,35,464.9,620.52,13.74,49x53x27
+108,Laptops Clearly 679,Electronics,Laptops,52,435.58,602.63,37.07,13x21x38
+109,Dairy Expert 449,Food & Beverage,Dairy,21,212.82,371.17,36.11,82x86x10
+110,Laptops Father 732,Electronics,Laptops,7,82.92,174.86,13.68,94x64x36
+111,Materials Point 873,Aerospace,Materials,66,140.22,201.44,21.55,46x96x48
+112,Navigation Develop 146,Aerospace,Navigation,29,335.23,594.8,30.01,10x36x24
+113,Beverages Series 396,Food & Beverage,Beverages,42,383.26,553.42,24.92,65x32x13
+114,Additives Gun 612,Chemical,Additives,72,353.32,812.64,40.33,19x60x7
+115,Raw Materials Democrat 179,Chemical,Raw Materials,41,232.58,463.05,28.71,100x91x31
+116,Tablets Right 432,Pharmaceuticals,Tablets,22,205.49,464.73,30.94,98x56x10
+117,Raw Materials Protect 703,Chemical,Raw Materials,52,125.44,241.94,19.85,49x53x19
+118,Tools Tonight 748,Machinery,Tools,15,42.81,82.91,9.78,54x54x46
+119,Synthetic Materials Everything 362,Textiles,Synthetic Materials,26,55.89,84.29,7.73,93x19x16
+120,Materials Mouth 878,Aerospace,Materials,75,378.45,695.85,46.22,82x92x45
+121,Pumps Middle 550,Machinery,Pumps,9,161.49,300.81,31.61,45x85x8
+122,Motors Enter 572,Machinery,Motors,58,41.72,56.12,18.5,46x19x46
+123,Transmission Western 493,Automotive,Transmission,60,299.07,597.06,47.72,15x67x41
+124,Snacks Whatever 613,Food & Beverage,Snacks,20,304.48,745.75,22.58,53x20x37
+125,Cotton Fabric Throughout 548,Textiles,Cotton Fabric,57,127.63,246.18,30.53,56x57x23
+126,Polymers Approach 795,Chemical,Polymers,7,388.36,872.67,32.4,18x52x11
+127,Solvents Best 972,Chemical,Solvents,20,129.74,220.56,29.18,28x54x24
+128,Catalysts Protect 186,Chemical,Catalysts,40,299.55,590.33,32.21,52x26x47
+129,Suspension Land 620,Automotive,Suspension,47,336.88,445.31,15.51,37x53x36
+130,Beverages Themselves 258,Food & Beverage,Beverages,10,499.99,827.46,39.43,74x79x38
+131,Sensors Factor 884,Electronics,Sensors,17,171.7,346.27,7.8,33x98x44
+132,Dyes Another 520,Textiles,Dyes,47,221.65,468.04,11.95,66x88x23
+133,Engines About 416,Aerospace,Engines,61,269.34,642.31,9.78,96x83x33
+134,Structures Goal 614,Aerospace,Structures,68,390.17,703.24,8.19,35x87x13
+135,Tablets Spend 995,Pharmaceuticals,Tablets,48,322.38,633.62,5.22,76x25x23
+136,Brake Systems Case 625,Automotive,Brake Systems,19,140.03,321.68,4.68,38x67x27
+137,Accessories Public 614,Electronics,Accessories,48,31.36,49.64,49.73,57x38x6
+138,Industrial Equipment Everybody 765,Machinery,Industrial Equipment,43,420.39,945.73,6.97,46x70x49
+139,Dyes Color 730,Textiles,Dyes,1,237.21,566.23,1.05,37x29x40
+140,Raw Materials Site 343,Chemical,Raw Materials,39,389.21,562.88,12,91x89x34
+141,Engine Parts Letter 611,Automotive,Engine Parts,69,419.16,553.17,25.82,40x28x23
+142,Raw Materials Ok 346,Chemical,Raw Materials,74,309.33,556.76,33.25,20x77x28
+143,Transmission Season 905,Automotive,Transmission,65,274.32,539.03,19.58,70x15x45
+144,Solvents Late 116,Chemical,Solvents,46,130.56,293.27,17.31,94x90x11
+145,Tools Option 659,Machinery,Tools,44,26.95,61.34,8.84,97x69x49
+146,Communication Act 238,Aerospace,Communication,9,95.23,205.63,47.19,14x47x17
+147,Laptops Brother 423,Electronics,Laptops,40,443.47,850.78,49.46,79x70x21
+148,Sensors Bag 465,Electronics,Sensors,7,99.6,232.96,16.66,25x57x32
+149,Coatings You 495,Chemical,Coatings,44,222.67,549.65,24.86,73x57x38
+150,Tablets Use 180,Pharmaceuticals,Tablets,56,364.91,738.19,41.13,79x47x25
+151,Engine Parts Rock 402,Automotive,Engine Parts,40,167.32,307.05,35.91,31x98x33
+152,Safety Equipment Well 990,Machinery,Safety Equipment,46,25.97,52.92,21.8,91x17x9
+153,Solvents Church 867,Chemical,Solvents,21,258.98,632.78,7.22,87x96x33
+154,Laptops Offer 897,Electronics,Laptops,47,38.28,66.4,47.48,14x87x14
+155,Structures Also 881,Aerospace,Structures,10,189.15,376.16,26.52,60x50x46
+156,Capsules They 126,Pharmaceuticals,Capsules,24,480.46,912.32,19.41,81x25x21
+157,Supplements Hope 726,Pharmaceuticals,Supplements,37,225.91,481.82,49.93,35x25x13
+158,Tires Pass 830,Automotive,Tires,57,90.46,225.85,40.54,50x95x27
+159,Transmission Old 407,Automotive,Transmission,21,273.37,588.89,46.37,91x32x28
+160,Processed Foods Choose 911,Food & Beverage,Processed Foods,18,492.64,780.38,24.75,56x80x41
+161,Safety Equipment Law 664,Machinery,Safety Equipment,17,402.81,819.45,4.4,49x60x50
+162,Navigation Care 519,Aerospace,Navigation,74,208.34,289.28,48.62,92x19x33
+163,Communication Analysis 231,Aerospace,Communication,71,261.09,539.87,9.18,26x65x37
+164,Smartphones Foot 411,Electronics,Smartphones,22,261.46,390.72,46.74,38x54x38
+165,Tablets His 750,Pharmaceuticals,Tablets,71,129.05,210.27,31.29,88x78x10
+166,Yarn Way 257,Textiles,Yarn,22,471.1,984.82,36.06,87x53x41
+167,Smartphones Worker 756,Electronics,Smartphones,74,45.21,73.13,10.62,83x63x44
+168,Accessories Style 658,Electronics,Accessories,38,445.05,921.38,15.17,41x97x30
+169,Medical Devices Traditional 161,Pharmaceuticals,Medical Devices,21,41.12,75.15,24.26,36x53x43
+170,Leather Among 426,Textiles,Leather,45,431.44,1065.85,6.63,57x75x40
+171,Electronics Way 225,Automotive,Electronics,35,124.66,229.31,7.13,16x47x29
+172,Catalysts Help 263,Chemical,Catalysts,42,481.53,1165.54,36.08,34x30x36
+173,Materials Develop 609,Aerospace,Materials,3,440.14,619.74,19.72,68x40x18
+174,Industrial Equipment Rest 606,Machinery,Industrial Equipment,61,30.02,49.32,0.51,23x65x13
+175,Supplements Enjoy 512,Pharmaceuticals,Supplements,47,186.06,251.98,2.65,81x34x28
+176,Tablets Reflect 561,Pharmaceuticals,Tablets,71,196.24,320.98,49.46,97x88x12
+177,Cotton Fabric Board 913,Textiles,Cotton Fabric,44,199.98,393.84,18.34,28x35x43
+178,Additives Health 139,Chemical,Additives,18,24.93,53.76,40.22,76x68x14
+179,Leather State 426,Textiles,Leather,21,466.03,825.59,30.86,48x85x26
+180,Communication Opportunity 586,Aerospace,Communication,3,283.65,494.13,33.72,63x84x24
+181,Components Usually 771,Electronics,Components,75,239.92,478.2,36.1,84x71x15
+182,Catalysts Two 348,Chemical,Catalysts,5,411.72,818.12,35.06,34x12x33
+183,Safety Equipment Investment 807,Machinery,Safety Equipment,27,79.96,143.32,38.77,70x17x50
+184,Yarn Pressure 432,Textiles,Yarn,62,107.63,207.79,15.76,32x68x39
+185,Motors So 890,Machinery,Motors,34,180.37,366.53,9.69,41x45x40
+186,Capsules Clear 404,Pharmaceuticals,Capsules,37,471.04,1010.8,34.54,72x50x35
+187,Motors Wish 914,Machinery,Motors,36,467.18,768.67,28.72,79x58x30
+188,Tools Wonder 394,Machinery,Tools,11,148.77,255.24,22.17,42x71x18
+189,Frozen Economic 675,Food & Beverage,Frozen,35,139.21,203.9,30.82,85x40x20
+190,Sensors Treatment 331,Electronics,Sensors,30,453.07,617.53,20.72,70x22x48
+191,Cotton Fabric Commercial 261,Textiles,Cotton Fabric,53,482.44,1005.15,44.04,70x71x46
+192,Snacks Such 761,Food & Beverage,Snacks,8,163.98,391.83,4.56,83x39x39
+193,Laptops Talk 957,Electronics,Laptops,23,211.85,512.83,1.91,60x73x16
+194,Tablets Cost 681,Pharmaceuticals,Tablets,14,9.59,23.15,16.82,68x92x39
+195,Engines Upon 579,Aerospace,Engines,35,426.27,652.78,5.72,30x68x46
+196,Supplements Itself 854,Pharmaceuticals,Supplements,44,97.17,218.53,28.43,34x32x44
+197,Polymers Ago 188,Chemical,Polymers,52,260.06,546.93,9.32,27x71x25
+198,Processed Foods Country 341,Food & Beverage,Processed Foods,58,134.09,295.6,47.71,48x84x41
+199,Tablets Since 809,Electronics,Tablets,31,328.57,451.64,6,49x30x30
+200,Supplements Window 402,Pharmaceuticals,Supplements,48,63.12,128.61,11.03,27x71x14
+201,Communication Go 482,Aerospace,Communication,54,494.47,1059.32,45.65,78x95x18
+202,Organic Stay 994,Food & Beverage,Organic,11,378.6,730.93,26.46,56x19x41
+203,Engine Parts Word 617,Automotive,Engine Parts,26,415.24,825.18,7.58,51x76x33
+204,Suspension Its 697,Automotive,Suspension,63,106.67,150.31,25.57,17x68x13
+205,Polymers Suffer 672,Chemical,Polymers,60,284.14,598.77,15.48,12x60x21
+206,Sensors Relationship 174,Electronics,Sensors,6,112.86,204.1,35.05,79x17x9
+207,Avionics Treat 284,Aerospace,Avionics,18,147.11,326.44,48.92,92x63x28
+208,Polymers Simple 486,Chemical,Polymers,49,435.46,608.03,48.21,79x27x46
+209,Industrial Equipment Talk 650,Machinery,Industrial Equipment,51,93.34,180.58,36.42,38x10x6
+210,Medical Devices Energy 657,Pharmaceuticals,Medical Devices,55,338.38,655.89,41.19,41x68x27
+211,Leather Example 996,Textiles,Leather,15,98.3,131.59,33.04,88x12x20
+212,Processed Foods Collection 134,Food & Beverage,Processed Foods,58,54.94,110.83,35.19,16x41x7
+213,Polymers Store 322,Chemical,Polymers,8,121,177.65,49.67,39x83x25
+214,Tools Science 246,Machinery,Tools,67,154.37,241.63,15.09,17x81x42
+215,Dyes Box 669,Textiles,Dyes,64,340.98,462.46,17.29,92x95x29
+216,Pumps Idea 252,Machinery,Pumps,39,211.08,369.76,37.75,70x40x19
+217,Supplements Turn 574,Pharmaceuticals,Supplements,8,76.45,150.98,48.39,81x77x13
+218,Catalysts American 438,Chemical,Catalysts,11,131.22,315.8,42.37,21x78x17
+219,Tablets Town 719,Electronics,Tablets,6,191.7,450.18,9.49,85x95x40
+220,Dairy Many 440,Food & Beverage,Dairy,39,108.4,265.41,0.87,34x25x35
+221,Organic Doctor 309,Food & Beverage,Organic,51,304.18,729.47,27.65,46x58x34
+222,Components Decision 625,Machinery,Components,64,134.47,250.01,40.16,70x50x18
+223,Components Technology 676,Machinery,Components,29,209.9,459.58,0.91,80x84x42
+224,Solvents Why 437,Chemical,Solvents,30,80.44,141.24,41.68,73x80x46
+225,Components Magazine 600,Machinery,Components,63,382.86,709.44,36.67,55x31x13
+226,Engines Hard 655,Aerospace,Engines,8,458.87,885.04,41.97,19x95x8
+227,Accessories Focus 745,Electronics,Accessories,30,73.06,100.94,7.64,37x74x34
+228,Industrial Equipment Tend 782,Machinery,Industrial Equipment,62,310.83,649.99,0.89,78x80x31
+229,Smartphones Stuff 381,Electronics,Smartphones,69,267.06,660.43,0.96,99x96x32
+230,Cotton Fabric Try 636,Textiles,Cotton Fabric,20,459.43,730.11,31.03,42x55x22
+231,Raw Materials Drive 515,Chemical,Raw Materials,59,189.66,375.15,49.51,38x48x48
+232,Suspension Dog 765,Automotive,Suspension,5,495.88,700.28,19.03,80x70x8
+233,Sensors Agent 611,Electronics,Sensors,56,89.83,186.3,16.63,22x77x7
+234,Beverages Receive 808,Food & Beverage,Beverages,73,451.13,843.88,2.42,19x97x22
+235,Laptops Data 422,Electronics,Laptops,3,464.74,1140.36,29.39,60x19x24
+236,Yarn Inside 954,Textiles,Yarn,50,124.03,262.01,27.07,59x27x49
+237,Transmission Get 454,Automotive,Transmission,7,374,530.04,11.68,19x53x43
+238,Solvents Family 379,Chemical,Solvents,58,19.66,37.13,17.85,58x65x16
+239,Raw Materials Treatment 402,Chemical,Raw Materials,32,387.22,834.74,4.19,29x58x50
+240,Dyes Available 469,Textiles,Dyes,14,197.86,278.95,47.15,66x56x22
+241,Brake Systems Spring 541,Automotive,Brake Systems,58,48.21,94.9,25.67,23x13x10
+242,Motors Family 712,Machinery,Motors,42,51.07,119.32,0.72,62x59x10
+243,Frozen Have 801,Food & Beverage,Frozen,49,262.95,395.32,13.52,44x73x14
+244,Brake Systems Put 531,Automotive,Brake Systems,39,220.16,414.14,3.94,42x41x45
+245,Navigation Mr 568,Aerospace,Navigation,14,310.25,453.77,0.44,60x52x44
+246,Solvents Instead 540,Chemical,Solvents,18,222.91,370.15,30.2,98x35x35
+247,Tools Respond 426,Machinery,Tools,38,482.46,1052.65,31.68,83x41x25
+248,Solvents Threat 502,Chemical,Solvents,47,409.16,587.83,28.24,85x79x16
+249,Sensors Not 825,Electronics,Sensors,27,233.5,426.41,14.64,98x18x31
+250,Engines Glass 347,Aerospace,Engines,33,318.5,665.79,35.79,58x19x33
+251,Navigation Wrong 618,Aerospace,Navigation,54,203.4,397.11,39.56,56x99x39
+252,Engine Parts Ahead 773,Automotive,Engine Parts,46,385.63,578.29,30.67,82x92x48
+253,Solvents Business 540,Chemical,Solvents,14,483.03,634.05,13.01,75x76x40
+254,Dairy Understand 574,Food & Beverage,Dairy,65,190.19,281.65,49.89,71x23x23
+255,Raw Materials Every 847,Chemical,Raw Materials,19,62.45,107.29,17.22,36x76x35
+256,Safety Equipment Could 839,Machinery,Safety Equipment,58,53.32,89.72,15.08,100x24x6
+257,Pumps Partner 919,Machinery,Pumps,22,59.13,142.85,37.05,76x32x40
+258,Leather Evidence 573,Textiles,Leather,30,282.13,636.85,31.53,33x91x47
+259,Polymers American 728,Chemical,Polymers,26,19.45,35.78,21.53,10x100x18
+260,Snacks Boy 928,Food & Beverage,Snacks,9,377.4,752.09,40,78x33x28
+261,Tools Pick 368,Machinery,Tools,63,231.49,447.53,31.99,86x59x44
+262,Additives Leader 460,Chemical,Additives,59,61.54,125.59,40.71,100x48x44
+263,Suspension Hair 220,Automotive,Suspension,31,71.3,118.82,9.23,98x28x37
+264,Polymers Shoulder 688,Chemical,Polymers,50,300.23,542.71,24.38,78x98x46
+265,Yarn Stop 395,Textiles,Yarn,18,87.6,133.55,42.12,89x16x27
+266,Accessories Former 934,Electronics,Accessories,50,72.58,178.3,25.32,73x62x48
+267,Materials Least 554,Aerospace,Materials,63,356.52,535.03,28.31,38x47x7
+268,Capsules Police 272,Pharmaceuticals,Capsules,59,271.12,536.49,38.65,73x80x37
+269,Transmission Much 893,Automotive,Transmission,70,61.53,140.78,18.41,15x66x39
+270,Dairy Business 949,Food & Beverage,Dairy,32,55.7,92.31,49.97,67x43x27
+271,Tires Image 220,Automotive,Tires,31,433.32,672.45,36.91,98x54x50
+272,Catalysts We 903,Chemical,Catalysts,27,309.99,705.61,40.29,82x54x39
+273,Vaccines Part 431,Pharmaceuticals,Vaccines,38,271.69,447.53,13.44,75x96x11
+274,Accessories Customer 383,Textiles,Accessories,17,459.79,984.74,6.72,28x51x20
+275,Polymers Environmental 747,Chemical,Polymers,35,75.37,154.76,18.82,19x91x10
+276,Additives Another 811,Chemical,Additives,48,376.15,694.24,24.45,84x10x10
+277,Communication Section 466,Aerospace,Communication,9,333.75,752.54,19.95,64x37x36
+278,Injections Least 445,Pharmaceuticals,Injections,71,415.03,827.37,28.35,72x53x48
+279,Smartphones Ability 902,Electronics,Smartphones,59,54.29,71.64,46.48,30x66x34
+280,Accessories Nature 805,Electronics,Accessories,17,105.15,248,15.16,45x21x46
+281,Components Wish 780,Machinery,Components,22,45.8,62.39,31.32,99x39x32
+282,Suspension Sure 318,Automotive,Suspension,62,52.12,72.63,29.72,76x97x33
+283,Smartphones Nothing 936,Electronics,Smartphones,16,349.32,868.33,21.17,26x71x9
+284,Dairy Right 925,Food & Beverage,Dairy,14,49.22,70.08,18.44,48x27x29
+285,Dyes Serve 246,Textiles,Dyes,9,496.51,961.55,0.52,93x31x33
+286,Pumps Yard 866,Machinery,Pumps,20,110.46,265.53,30.84,66x37x10
+287,Brake Systems Site 703,Automotive,Brake Systems,50,377.46,649.93,21.53,27x41x22
+288,Brake Systems Since 714,Automotive,Brake Systems,37,278.93,623.34,34.55,94x48x18
+289,Organic Religious 761,Food & Beverage,Organic,7,198.92,445.69,39.71,40x73x29
+290,Brake Systems Debate 708,Automotive,Brake Systems,10,252.29,487.91,48.89,56x50x13
+291,Additives Himself 659,Chemical,Additives,23,213.33,472.58,47.73,19x12x42
+292,Engine Parts Lawyer 140,Automotive,Engine Parts,8,134.78,328.65,19.96,46x90x50
+293,Polymers Available 184,Chemical,Polymers,69,352.4,685.48,7.72,20x49x10
+294,Beverages Red 500,Food & Beverage,Beverages,9,270.51,452.35,21.93,40x17x20
+295,Tires Wife 726,Automotive,Tires,8,62.41,104.3,37.11,32x25x5
+296,Dyes Give 608,Textiles,Dyes,45,10.62,20.47,39.17,43x31x28
+297,Dyes Price 375,Textiles,Dyes,16,391.66,871.72,1.56,64x44x38
+298,Electronics Former 690,Automotive,Electronics,10,357.6,677.79,25.59,17x73x41
+299,Leather Record 891,Textiles,Leather,14,82.87,196.66,33.74,24x39x37
+300,Smartphones Thus 112,Electronics,Smartphones,32,430.05,582.79,18.26,29x32x7
+301,Catalysts Capital 526,Chemical,Catalysts,41,164.29,267.05,3.99,57x25x37
+302,Laptops Service 628,Electronics,Laptops,6,115.48,282.34,3.54,69x46x24
+303,Industrial Equipment We 108,Machinery,Industrial Equipment,48,278.78,429.55,28.23,48x89x20
+304,Structures First 605,Aerospace,Structures,26,297.89,649.09,27.37,41x29x5
+305,Raw Materials Movement 454,Chemical,Raw Materials,2,120.33,293.75,0.17,94x58x24
+306,Brake Systems For 343,Automotive,Brake Systems,54,267.26,505.24,3.09,28x45x10
+307,Laptops Reflect 632,Electronics,Laptops,53,449.16,961.66,18.69,20x84x11
+308,Dyes Issue 176,Textiles,Dyes,73,410.88,564.85,33.16,26x40x23
+309,Injections General 502,Pharmaceuticals,Injections,42,463.39,779.27,13.67,19x35x13
+310,Brake Systems Interesting 560,Automotive,Brake Systems,60,57.3,96.08,6.12,55x36x33
+311,Medical Devices Same 222,Pharmaceuticals,Medical Devices,12,136.18,202.79,34.33,100x99x43
+312,Laptops Find 435,Electronics,Laptops,19,418.78,590.25,12.49,55x60x37
+313,Sensors Once 939,Electronics,Sensors,23,152.93,204.51,20.28,67x81x40
+314,Processed Foods Care 923,Food & Beverage,Processed Foods,18,233.71,337.88,3.18,38x26x17
+315,Solvents Dark 760,Chemical,Solvents,11,344.71,689,13.02,19x12x9
+316,Organic Kitchen 231,Food & Beverage,Organic,12,224.5,535.68,41.48,52x25x7
+317,Avionics Red 687,Aerospace,Avionics,56,88.15,201.51,19.81,13x58x48
+318,Catalysts Yard 291,Chemical,Catalysts,36,180.2,294.78,44.18,14x88x44
+319,Organic Hundred 521,Food & Beverage,Organic,71,151.08,283.25,4.48,59x27x31
+320,Organic Research 638,Food & Beverage,Organic,32,442.9,911,40.13,12x58x50
+321,Safety Equipment Smile 596,Machinery,Safety Equipment,45,274.54,657.58,25.17,59x44x16
+322,Tablets Weight 130,Electronics,Tablets,36,300.57,411.87,49.58,77x55x42
+323,Beverages Contain 772,Food & Beverage,Beverages,31,54.57,88.39,40.83,17x38x41
+324,Solvents Power 965,Chemical,Solvents,23,467.93,707.19,29.67,99x55x42
+325,Sensors Outside 681,Electronics,Sensors,73,351.78,517.3,47.42,73x79x24
+326,Accessories Fish 157,Textiles,Accessories,30,23.79,48.1,1.09,71x10x26
+327,Beverages Into 281,Food & Beverage,Beverages,42,173.68,238.2,7.47,100x28x12
+328,Industrial Equipment Official 778,Machinery,Industrial Equipment,51,189.93,380.47,16.89,51x27x15
+329,Coatings These 764,Chemical,Coatings,41,480.53,725.14,48.44,98x88x27
+330,Organic A 279,Food & Beverage,Organic,49,296.53,494.67,34.46,26x32x5
+331,Additives Fly 716,Chemical,Additives,41,21.03,50.58,48.38,38x91x41
+332,Tires Few 863,Automotive,Tires,10,74.62,118.32,49.12,31x91x10
+333,Safety Equipment Develop 314,Machinery,Safety Equipment,32,10.64,22.68,17.59,23x10x8
+334,Polymers Law 270,Chemical,Polymers,53,367.63,695.45,19,79x58x11
+335,Navigation Stock 803,Aerospace,Navigation,29,327.23,489.27,3.78,14x47x6
+336,Components Particularly 175,Machinery,Components,44,476.07,716.07,18.84,19x80x10
+337,Motors Policy 594,Machinery,Motors,4,492.71,895.54,32.72,87x65x15
+338,Smartphones Real 294,Electronics,Smartphones,53,168.89,360.86,36.13,79x43x47
+339,Injections Fund 150,Pharmaceuticals,Injections,51,122.59,243.48,42.01,29x16x28
+340,Accessories Make 943,Electronics,Accessories,62,48.38,74.49,1.38,31x91x23
+341,Tires Letter 415,Automotive,Tires,51,422.67,788.34,44.75,43x21x46
+342,Catalysts Letter 490,Chemical,Catalysts,48,188.66,287.5,2.33,66x69x21
+343,Snacks Republican 254,Food & Beverage,Snacks,13,284.3,398.83,17.26,79x62x42
+344,Frozen Different 496,Food & Beverage,Frozen,67,35.19,63.42,26.82,70x83x20
+345,Structures Much 974,Aerospace,Structures,5,44.08,83.86,45.03,83x96x44
+346,Cotton Fabric Material 559,Textiles,Cotton Fabric,23,474.88,1158.17,8.44,37x34x13
+347,Accessories Student 799,Electronics,Accessories,56,43.79,67.54,41.15,28x86x21
+348,Pumps Wear 168,Machinery,Pumps,12,457.52,807.85,19.93,51x45x38
+349,Avionics Style 738,Aerospace,Avionics,67,394.34,882.54,5.71,29x28x41
+350,Engine Parts Simply 203,Automotive,Engine Parts,37,283.53,663.74,44.02,62x43x29
+351,Navigation Condition 138,Aerospace,Navigation,23,306.44,499.65,7.28,87x97x49
+352,Raw Materials Reason 439,Chemical,Raw Materials,31,200.92,273.08,23.81,44x57x6
+353,Components Become 963,Machinery,Components,63,158.92,370.26,34.27,39x27x24
+354,Structures Federal 526,Aerospace,Structures,12,138.36,211.07,10.65,62x72x38
+355,Industrial Equipment Myself 262,Machinery,Industrial Equipment,9,260.06,435.17,25.39,27x77x41
+356,Laptops Record 952,Electronics,Laptops,26,100.42,231.41,12.55,68x16x28
+357,Snacks Property 575,Food & Beverage,Snacks,65,187.33,332.76,46.16,97x13x20
+358,Safety Equipment President 281,Machinery,Safety Equipment,61,299.05,599.37,17.55,30x43x49
+359,Electronics Government 150,Automotive,Electronics,21,18.59,43.21,39.01,37x38x46
+360,Organic Better 767,Food & Beverage,Organic,53,107.33,205.64,43.25,97x11x35
+361,Dyes Tell 920,Textiles,Dyes,2,90.73,142.31,30.46,49x100x46
+362,Medical Devices Society 972,Pharmaceuticals,Medical Devices,45,448.26,829.64,10.99,48x96x38
+363,Additives Easy 623,Chemical,Additives,48,55.64,109.82,29.73,46x48x48
+364,Tires Remember 383,Automotive,Tires,42,36.6,85.42,13.13,93x48x17
+365,Yarn Force 158,Textiles,Yarn,52,383.91,803.38,34.07,13x93x36
+366,Injections Down 514,Pharmaceuticals,Injections,50,453.92,991.4,29.19,83x34x26
+367,Organic Sure 903,Food & Beverage,Organic,61,269.64,643.85,33.63,74x48x15
+368,Leather Decide 231,Textiles,Leather,34,53.31,115.69,28,33x97x26
+369,Brake Systems Choice 862,Automotive,Brake Systems,40,180.87,326.39,44.35,57x43x42
+370,Medical Devices Ago 581,Pharmaceuticals,Medical Devices,7,426.35,997.52,29.22,89x19x35
+371,Frozen Any 797,Food & Beverage,Frozen,49,64.31,124.49,20.71,29x27x17
+372,Safety Equipment Election 568,Machinery,Safety Equipment,19,493.66,829.18,35.81,20x72x26
+373,Leather May 104,Textiles,Leather,58,319.08,519.54,38.08,31x83x15
+374,Avionics Popular 544,Aerospace,Avionics,55,69.06,123.21,48.27,59x10x7
+375,Organic To 114,Food & Beverage,Organic,42,189.69,418.88,26.6,12x96x5
+376,Beverages Special 452,Food & Beverage,Beverages,40,348.29,506.66,19.24,85x49x15
+377,Engine Parts Baby 397,Automotive,Engine Parts,59,152.61,331.68,29.86,53x65x48
+378,Leather Lose 601,Textiles,Leather,46,498.09,1095.87,8.33,61x12x19
+379,Organic Join 316,Food & Beverage,Organic,3,492.52,988.8,8.53,56x93x7
+380,Coatings Various 647,Chemical,Coatings,7,131.62,264.91,2.49,23x93x6
+381,Sensors Professional 554,Electronics,Sensors,49,62.32,90.26,12.71,99x29x18
+382,Tablets Parent 203,Electronics,Tablets,67,213.33,346.44,30.32,27x63x11
+383,Electronics Day 208,Automotive,Electronics,64,61.44,94.52,10.07,43x76x17
+384,Pumps Serious 264,Machinery,Pumps,6,207.83,406.88,45.53,98x71x26
+385,Processed Foods Same 191,Food & Beverage,Processed Foods,15,11.31,26.04,33.48,29x21x37
+386,Suspension If 362,Automotive,Suspension,30,363.17,671.18,48.87,43x69x8
+387,Brake Systems Miss 972,Automotive,Brake Systems,38,437.7,758.21,33.87,64x24x11
+388,Smartphones Instead 779,Electronics,Smartphones,22,426.74,723.07,44.74,89x44x10
+389,Components Either 510,Machinery,Components,52,95.52,234.48,13.66,59x98x35
+390,Coatings Choose 270,Chemical,Coatings,15,443.63,647.26,36.35,30x23x31
+391,Navigation Reality 285,Aerospace,Navigation,49,340.8,761.69,30.61,97x26x35
+392,Avionics Rise 551,Aerospace,Avionics,6,444.36,611.44,32.78,11x100x48
+393,Organic Accept 631,Food & Beverage,Organic,67,437.21,929.46,30.95,65x94x20
+394,Structures Walk 756,Aerospace,Structures,50,333.54,493.1,41.34,88x16x5
+395,Yarn Social 972,Textiles,Yarn,64,425.18,996.32,3.84,72x51x20
+396,Components Traditional 328,Machinery,Components,71,29.92,61.99,20.22,40x20x34
+397,Navigation Speech 977,Aerospace,Navigation,64,226.81,416.53,6.02,73x93x6
+398,Tires Value 670,Automotive,Tires,71,209.11,271.89,4.64,87x89x45
+399,Vaccines Both 770,Pharmaceuticals,Vaccines,59,283.35,691.49,18.23,16x38x34
+400,Motors Start 714,Machinery,Motors,61,384.87,831.32,18.23,67x24x11
